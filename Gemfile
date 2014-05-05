@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 gem 'rails', '4.1.0'
 gem 'bootstrap-sass'
 gem 'sprockets'
+gem 'bcrypt-ruby', '3.1.2'
 
 group :development, :test do
   gem 'sqlite3'
