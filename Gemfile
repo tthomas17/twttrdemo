@@ -9,6 +9,7 @@ group :development, :test do
   gem 'sqlite3'
   gem 'rspec-rails', '2.13.1'
   gem 'guard-rspec', '2.5.0'
+  gem "minitest"
 end
 
 group :test do
